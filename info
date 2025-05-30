@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI駆動DMAICシステム - お知らせ</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #004080; color: white; padding: 20px 0; text-align: center; }
+        nav { background-color: #003366; padding: 10px 0; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        nav a:hover { text-decoration: underline; }
+        main { padding: 20px; background-color: white; max-width: 1200px; margin: 20px auto; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        footer { background-color: #003366; color: white; text-align: center; padding: 15px 0; width: 100%; }
+        .content { min-height: calc(100vh - 300px); }
+        .news-item { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
+        .news-date { color: #666; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AI駆動_DMAICシステムVer.02</h1>
+    </header>
+    <nav>
+        <a href="index.html">ホーム</a>
+        <a href="news.html" style="text-decoration: underline;">お知らせ</a>
+        <a href="technology.html">テクノロジー</a>
+        <a href="overview.html">課概要</a>
+        <a href="contact.html">お問い合わせ</a>
+    </nav>
+    <main class="content">
+        <h2>お知らせ一覧</h2>
+        
+        <div class="news-item">
+            <h3>システムメンテナンスのご案内</h3>
+            <p class="news-date">2025年5月30日</p>
+            <p>2025年6月5日(水) 1:00～5:00の間、システムメンテナンスを実施いたします。この間はサービスがご利用いただけませんので、あらかじめご了承ください。</p>
+        </div>
+        
+        <div class="news-item">
+            <h3>新機能「自動最適化ツール」のリリース</h3>
+            <p class="news-date">2025年5月15日</p>
+            <p>AIを活用した新機能「自動最適化ツール」をリリースしました。より効率的な業務フローの構築が可能になります。</p>
+        </div>
+        
+        <div class="news-item">
+            <h3>操作方法動画を公開しました</h3>
+            <p class="news-date">2025年4月20日</p>
+            <p>新規ユーザー向けの操作ガイド動画を公開しました。初めてご利用の方はぜひご覧ください。</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 AI駆動DMAICシステム All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
